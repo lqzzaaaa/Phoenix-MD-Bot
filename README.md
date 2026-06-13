@@ -87,6 +87,21 @@ Need help or want to stay updated with the latest features? Join our community!
 | **💬 Support Group** | <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img src="https://img.shields.io/badge/Get_Help_Now-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
 | **📺 YouTube Channel** | <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w"><img src="https://img.shields.io/badge/Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"></a> |
 
+---
+## ☕ Support The Developer
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=28&pause=1000&color=F710B1&center=true&width=600&height=50&lines=Enjoyed+Phoenix-MD%3F+%E2%98%95;Buy+Abhishek+a+Chai+%E2%98%95" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://buymychai.vercel.app/abhisheksuresh" target="_blank">
+  <img src="https://img.shields.io/badge/BUY_ME_A_CHAI-000000?style=for-the-badge&logo=kofi&logoColor=F710B1">
+</a>
+
+</div>
+
 <div align="center">
   <br>
   <b>Star ⭐ this repository for more amazing features!</b>
